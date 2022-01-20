@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Software Development / Web Development.
 
-- 🌱 I’m currently working as Web Application at Media.net
+- 🌱 I’m currently working as Web Application Developer at Media.net
 
 - 📫 How to reach me
   1.  [Personal Website](https://shahayush954.herokuapp.com)
